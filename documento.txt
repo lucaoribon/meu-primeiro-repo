@@ -1,1 +1,1 @@
-Este é meu primeiro arquivo no Git
+este é meu primeiro arquivo no Git
